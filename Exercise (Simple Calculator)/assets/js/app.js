@@ -128,7 +128,5 @@ while (condition == true) {
         } else if (op == 'quit') {
             condition = false
         }
-
     })()
-
 }
